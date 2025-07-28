@@ -49,8 +49,8 @@ Level Generator → RL Agent (Solver) → Difficulty Assessor → Feedback Loop
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/your-username/sokoban-ai-designer.git
-cd sokoban-ai-designer
+git clone https://github.com/21toanyone-pro/sokoban.git
+cd sokoban
 ```
 
 ### 2. 가상환경 생성 및 활성화
@@ -334,29 +334,10 @@ python -c "from rl_agent import PPOAgent; agent = PPOAgent((5,5)); print('Agent 
 2. **학습 안정성**: 초기 에이전트 학습 시 불안정할 수 있음
 3. **플랫폼 의존성**: Pygame 렌더링은 GUI 환경 필요
 
-## 기여 방법
-
-1. Fork 생성
-2. Feature 브랜치 생성 (`git checkout -b feature/AmazingFeature`)
-3. 변경사항 커밋 (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 Push (`git push origin feature/AmazingFeature`)
-5. Pull Request 생성
-
-## 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
-## 문의 및 지원
-
-- 이슈 리포트: [GitHub Issues](https://github.com/your-username/sokoban-ai-designer/issues)
-- 기능 제안: [GitHub Discussions](https://github.com/your-username/sokoban-ai-designer/discussions)
 
 ## 참고문헌
 
 1. Schulman, J., et al. "Proximal Policy Optimization Algorithms" (2017)
 2. Silver, D., et al. "Mastering the game of Go with deep neural networks and tree search" (2016)
 3. Justesen, N., et al. "Procedural Content Generation via Machine Learning" (2018)
-
 ---
-
-**소코반 자동 레벨 디자인 AI** - AI의 창의성과 게임 디자인의 만남 
