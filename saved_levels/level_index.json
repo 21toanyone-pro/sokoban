@@ -1,0 +1,1345 @@
+{
+  "total_levels": 111,
+  "levels": {
+    "stage_001_level_01": {
+      "file": "stage_001_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.112109",
+      "curriculum_stage": 1
+    },
+    "stage_001_level_02": {
+      "file": "stage_001_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.115110",
+      "curriculum_stage": 1
+    },
+    "stage_001_level_03": {
+      "file": "stage_001_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.117110",
+      "curriculum_stage": 1
+    },
+    "stage_002_level_01": {
+      "file": "stage_002_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.120111",
+      "curriculum_stage": 2
+    },
+    "stage_002_level_02": {
+      "file": "stage_002_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.123111",
+      "curriculum_stage": 2
+    },
+    "stage_002_level_03": {
+      "file": "stage_002_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.126110",
+      "curriculum_stage": 2
+    },
+    "stage_003_level_01": {
+      "file": "stage_003_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.129109",
+      "curriculum_stage": 3
+    },
+    "stage_003_level_02": {
+      "file": "stage_003_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.131110",
+      "curriculum_stage": 3
+    },
+    "stage_003_level_03": {
+      "file": "stage_003_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-25T15:44:45.133112",
+      "curriculum_stage": 3
+    },
+    "stage_004_level_01": {
+      "file": "stage_004_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.323085",
+      "curriculum_stage": 4
+    },
+    "stage_004_level_02": {
+      "file": "stage_004_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.325242",
+      "curriculum_stage": 4
+    },
+    "stage_004_level_03": {
+      "file": "stage_004_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.328185",
+      "curriculum_stage": 4
+    },
+    "stage_005_level_01": {
+      "file": "stage_005_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.331000",
+      "curriculum_stage": 5
+    },
+    "stage_005_level_02": {
+      "file": "stage_005_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.333705",
+      "curriculum_stage": 5
+    },
+    "stage_005_level_03": {
+      "file": "stage_005_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.335882",
+      "curriculum_stage": 5
+    },
+    "stage_006_level_01": {
+      "file": "stage_006_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.338643",
+      "curriculum_stage": 6
+    },
+    "stage_006_level_02": {
+      "file": "stage_006_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.340829",
+      "curriculum_stage": 6
+    },
+    "stage_006_level_03": {
+      "file": "stage_006_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.344234",
+      "curriculum_stage": 6
+    },
+    "stage_007_level_01": {
+      "file": "stage_007_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.347664",
+      "curriculum_stage": 7
+    },
+    "stage_007_level_02": {
+      "file": "stage_007_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.351059",
+      "curriculum_stage": 7
+    },
+    "stage_007_level_03": {
+      "file": "stage_007_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.353269",
+      "curriculum_stage": 7
+    },
+    "stage_008_level_01": {
+      "file": "stage_008_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.356034",
+      "curriculum_stage": 8
+    },
+    "stage_008_level_02": {
+      "file": "stage_008_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.358916",
+      "curriculum_stage": 8
+    },
+    "stage_008_level_03": {
+      "file": "stage_008_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.363036",
+      "curriculum_stage": 8
+    },
+    "stage_009_level_01": {
+      "file": "stage_009_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.365237",
+      "curriculum_stage": 9
+    },
+    "stage_009_level_02": {
+      "file": "stage_009_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.368099",
+      "curriculum_stage": 9
+    },
+    "stage_009_level_03": {
+      "file": "stage_009_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.370811",
+      "curriculum_stage": 9
+    },
+    "stage_010_level_01": {
+      "file": "stage_010_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.374205",
+      "curriculum_stage": 10
+    },
+    "stage_010_level_02": {
+      "file": "stage_010_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.378145",
+      "curriculum_stage": 10
+    },
+    "stage_010_level_03": {
+      "file": "stage_010_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:33:57.380910",
+      "curriculum_stage": 10
+    },
+    "stage_011_level_01": {
+      "file": "stage_011_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.352869",
+      "curriculum_stage": 11
+    },
+    "stage_011_level_02": {
+      "file": "stage_011_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.355542",
+      "curriculum_stage": 11
+    },
+    "stage_011_level_03": {
+      "file": "stage_011_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.358204",
+      "curriculum_stage": 11
+    },
+    "stage_012_level_01": {
+      "file": "stage_012_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.360372",
+      "curriculum_stage": 12
+    },
+    "stage_012_level_02": {
+      "file": "stage_012_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.363595",
+      "curriculum_stage": 12
+    },
+    "stage_012_level_03": {
+      "file": "stage_012_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.367009",
+      "curriculum_stage": 12
+    },
+    "stage_013_level_01": {
+      "file": "stage_013_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.370257",
+      "curriculum_stage": 13
+    },
+    "stage_013_level_02": {
+      "file": "stage_013_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.373543",
+      "curriculum_stage": 13
+    },
+    "stage_013_level_03": {
+      "file": "stage_013_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.376773",
+      "curriculum_stage": 13
+    },
+    "stage_014_level_01": {
+      "file": "stage_014_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.379585",
+      "curriculum_stage": 14
+    },
+    "stage_014_level_02": {
+      "file": "stage_014_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.383415",
+      "curriculum_stage": 14
+    },
+    "stage_014_level_03": {
+      "file": "stage_014_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.386739",
+      "curriculum_stage": 14
+    },
+    "stage_015_level_01": {
+      "file": "stage_015_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.390028",
+      "curriculum_stage": 15
+    },
+    "stage_015_level_02": {
+      "file": "stage_015_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.392216",
+      "curriculum_stage": 15
+    },
+    "stage_015_level_03": {
+      "file": "stage_015_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.395693",
+      "curriculum_stage": 15
+    },
+    "stage_016_level_01": {
+      "file": "stage_016_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.400122",
+      "curriculum_stage": 16
+    },
+    "stage_016_level_02": {
+      "file": "stage_016_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.403413",
+      "curriculum_stage": 16
+    },
+    "stage_016_level_03": {
+      "file": "stage_016_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.405620",
+      "curriculum_stage": 16
+    },
+    "stage_017_level_01": {
+      "file": "stage_017_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.408881",
+      "curriculum_stage": 17
+    },
+    "stage_017_level_02": {
+      "file": "stage_017_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.416934",
+      "curriculum_stage": 17
+    },
+    "stage_017_level_03": {
+      "file": "stage_017_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.422318",
+      "curriculum_stage": 17
+    },
+    "stage_018_level_01": {
+      "file": "stage_018_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.429882",
+      "curriculum_stage": 18
+    },
+    "stage_018_level_02": {
+      "file": "stage_018_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.436082",
+      "curriculum_stage": 18
+    },
+    "stage_018_level_03": {
+      "file": "stage_018_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.440696",
+      "curriculum_stage": 18
+    },
+    "stage_019_level_01": {
+      "file": "stage_019_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.446282",
+      "curriculum_stage": 19
+    },
+    "stage_019_level_02": {
+      "file": "stage_019_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.451991",
+      "curriculum_stage": 19
+    },
+    "stage_019_level_03": {
+      "file": "stage_019_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.457108",
+      "curriculum_stage": 19
+    },
+    "stage_020_level_01": {
+      "file": "stage_020_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.462130",
+      "curriculum_stage": 20
+    },
+    "stage_020_level_02": {
+      "file": "stage_020_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.466613",
+      "curriculum_stage": 20
+    },
+    "stage_020_level_03": {
+      "file": "stage_020_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        5,
+        5
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.470478",
+      "curriculum_stage": 20
+    },
+    "stage_021_level_01": {
+      "file": "stage_021_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.474903",
+      "curriculum_stage": 21
+    },
+    "stage_021_level_02": {
+      "file": "stage_021_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.478190",
+      "curriculum_stage": 21
+    },
+    "stage_021_level_03": {
+      "file": "stage_021_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.483194",
+      "curriculum_stage": 21
+    },
+    "stage_022_level_01": {
+      "file": "stage_022_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.489346",
+      "curriculum_stage": 22
+    },
+    "stage_022_level_02": {
+      "file": "stage_022_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.493731",
+      "curriculum_stage": 22
+    },
+    "stage_022_level_03": {
+      "file": "stage_022_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.496983",
+      "curriculum_stage": 22
+    },
+    "stage_023_level_01": {
+      "file": "stage_023_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.501377",
+      "curriculum_stage": 23
+    },
+    "stage_023_level_02": {
+      "file": "stage_023_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.504192",
+      "curriculum_stage": 23
+    },
+    "stage_023_level_03": {
+      "file": "stage_023_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.507421",
+      "curriculum_stage": 23
+    },
+    "stage_024_level_01": {
+      "file": "stage_024_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.511245",
+      "curriculum_stage": 24
+    },
+    "stage_024_level_02": {
+      "file": "stage_024_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.515024",
+      "curriculum_stage": 24
+    },
+    "stage_024_level_03": {
+      "file": "stage_024_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.519558",
+      "curriculum_stage": 24
+    },
+    "stage_025_level_01": {
+      "file": "stage_025_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        6
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.523308",
+      "curriculum_stage": 25
+    },
+    "stage_025_level_02": {
+      "file": "stage_025_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.526535",
+      "curriculum_stage": 25
+    },
+    "stage_025_level_03": {
+      "file": "stage_025_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        6,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:34:38.529761",
+      "curriculum_stage": 25
+    },
+    "stage_050_level_01": {
+      "file": "stage_050_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.924468",
+      "curriculum_stage": 50
+    },
+    "stage_050_level_02": {
+      "file": "stage_050_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.928797",
+      "curriculum_stage": 50
+    },
+    "stage_050_level_03": {
+      "file": "stage_050_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.933244",
+      "curriculum_stage": 50
+    },
+    "stage_051_level_01": {
+      "file": "stage_051_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.938209",
+      "curriculum_stage": 51
+    },
+    "stage_051_level_02": {
+      "file": "stage_051_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.943297",
+      "curriculum_stage": 51
+    },
+    "stage_051_level_03": {
+      "file": "stage_051_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.947126",
+      "curriculum_stage": 51
+    },
+    "stage_052_level_01": {
+      "file": "stage_052_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.952650",
+      "curriculum_stage": 52
+    },
+    "stage_052_level_02": {
+      "file": "stage_052_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.956557",
+      "curriculum_stage": 52
+    },
+    "stage_052_level_03": {
+      "file": "stage_052_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.962139",
+      "curriculum_stage": 52
+    },
+    "stage_053_level_01": {
+      "file": "stage_053_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.967715",
+      "curriculum_stage": 53
+    },
+    "stage_053_level_02": {
+      "file": "stage_053_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.972762",
+      "curriculum_stage": 53
+    },
+    "stage_053_level_03": {
+      "file": "stage_053_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.977181",
+      "curriculum_stage": 53
+    },
+    "stage_054_level_01": {
+      "file": "stage_054_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.983354",
+      "curriculum_stage": 54
+    },
+    "stage_054_level_02": {
+      "file": "stage_054_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.988508",
+      "curriculum_stage": 54
+    },
+    "stage_054_level_03": {
+      "file": "stage_054_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.993507",
+      "curriculum_stage": 54
+    },
+    "stage_055_level_01": {
+      "file": "stage_055_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:11.999097",
+      "curriculum_stage": 55
+    },
+    "stage_055_level_02": {
+      "file": "stage_055_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        7,
+        7
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:12.004762",
+      "curriculum_stage": 55
+    },
+    "stage_055_level_03": {
+      "file": "stage_055_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        8,
+        8
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:12.009207",
+      "curriculum_stage": 55
+    },
+    "stage_095_level_01": {
+      "file": "stage_095_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.863438",
+      "curriculum_stage": 95
+    },
+    "stage_095_level_02": {
+      "file": "stage_095_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.868302",
+      "curriculum_stage": 95
+    },
+    "stage_095_level_03": {
+      "file": "stage_095_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        10
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.873400",
+      "curriculum_stage": 95
+    },
+    "stage_096_level_01": {
+      "file": "stage_096_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.877803",
+      "curriculum_stage": 96
+    },
+    "stage_096_level_02": {
+      "file": "stage_096_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.884207",
+      "curriculum_stage": 96
+    },
+    "stage_096_level_03": {
+      "file": "stage_096_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        10
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.890470",
+      "curriculum_stage": 96
+    },
+    "stage_097_level_01": {
+      "file": "stage_097_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.895405",
+      "curriculum_stage": 97
+    },
+    "stage_097_level_02": {
+      "file": "stage_097_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.899172",
+      "curriculum_stage": 97
+    },
+    "stage_097_level_03": {
+      "file": "stage_097_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        10
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.909684",
+      "curriculum_stage": 97
+    },
+    "stage_098_level_01": {
+      "file": "stage_098_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        9
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.922123",
+      "curriculum_stage": 98
+    },
+    "stage_098_level_02": {
+      "file": "stage_098_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.928273",
+      "curriculum_stage": 98
+    },
+    "stage_098_level_03": {
+      "file": "stage_098_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        9,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.935232",
+      "curriculum_stage": 98
+    },
+    "stage_099_level_01": {
+      "file": "stage_099_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.945473",
+      "curriculum_stage": 99
+    },
+    "stage_099_level_02": {
+      "file": "stage_099_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        10
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.953702",
+      "curriculum_stage": 99
+    },
+    "stage_099_level_03": {
+      "file": "stage_099_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.961562",
+      "curriculum_stage": 99
+    },
+    "stage_100_level_01": {
+      "file": "stage_100_level_01.json",
+      "difficulty": 0.5,
+      "size": [
+        11,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.967411",
+      "curriculum_stage": 100
+    },
+    "stage_100_level_02": {
+      "file": "stage_100_level_02.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.972893",
+      "curriculum_stage": 100
+    },
+    "stage_100_level_03": {
+      "file": "stage_100_level_03.json",
+      "difficulty": 0.5,
+      "size": [
+        10,
+        11
+      ],
+      "num_boxes": 0,
+      "created_at": "2025-07-28T08:35:33.977761",
+      "curriculum_stage": 100
+    }
+  },
+  "difficulty_ranges": {
+    "easy": [],
+    "medium": [
+      "stage_001_level_01",
+      "stage_001_level_02",
+      "stage_001_level_03",
+      "stage_002_level_01",
+      "stage_002_level_02",
+      "stage_002_level_03",
+      "stage_003_level_01",
+      "stage_003_level_02",
+      "stage_003_level_03",
+      "stage_004_level_01",
+      "stage_004_level_02",
+      "stage_004_level_03",
+      "stage_005_level_01",
+      "stage_005_level_02",
+      "stage_005_level_03",
+      "stage_006_level_01",
+      "stage_006_level_02",
+      "stage_006_level_03",
+      "stage_007_level_01",
+      "stage_007_level_02",
+      "stage_007_level_03",
+      "stage_008_level_01",
+      "stage_008_level_02",
+      "stage_008_level_03",
+      "stage_009_level_01",
+      "stage_009_level_02",
+      "stage_009_level_03",
+      "stage_010_level_01",
+      "stage_010_level_02",
+      "stage_010_level_03",
+      "stage_011_level_01",
+      "stage_011_level_02",
+      "stage_011_level_03",
+      "stage_012_level_01",
+      "stage_012_level_02",
+      "stage_012_level_03",
+      "stage_013_level_01",
+      "stage_013_level_02",
+      "stage_013_level_03",
+      "stage_014_level_01",
+      "stage_014_level_02",
+      "stage_014_level_03",
+      "stage_015_level_01",
+      "stage_015_level_02",
+      "stage_015_level_03",
+      "stage_016_level_01",
+      "stage_016_level_02",
+      "stage_016_level_03",
+      "stage_017_level_01",
+      "stage_017_level_02",
+      "stage_017_level_03",
+      "stage_018_level_01",
+      "stage_018_level_02",
+      "stage_018_level_03",
+      "stage_019_level_01",
+      "stage_019_level_02",
+      "stage_019_level_03",
+      "stage_020_level_01",
+      "stage_020_level_02",
+      "stage_020_level_03",
+      "stage_021_level_01",
+      "stage_021_level_02",
+      "stage_021_level_03",
+      "stage_022_level_01",
+      "stage_022_level_02",
+      "stage_022_level_03",
+      "stage_023_level_01",
+      "stage_023_level_02",
+      "stage_023_level_03",
+      "stage_024_level_01",
+      "stage_024_level_02",
+      "stage_024_level_03",
+      "stage_025_level_01",
+      "stage_025_level_02",
+      "stage_025_level_03",
+      "stage_050_level_01",
+      "stage_050_level_02",
+      "stage_050_level_03",
+      "stage_051_level_01",
+      "stage_051_level_02",
+      "stage_051_level_03",
+      "stage_052_level_01",
+      "stage_052_level_02",
+      "stage_052_level_03",
+      "stage_053_level_01",
+      "stage_053_level_02",
+      "stage_053_level_03",
+      "stage_054_level_01",
+      "stage_054_level_02",
+      "stage_054_level_03",
+      "stage_055_level_01",
+      "stage_055_level_02",
+      "stage_055_level_03",
+      "stage_095_level_01",
+      "stage_095_level_02",
+      "stage_095_level_03",
+      "stage_096_level_01",
+      "stage_096_level_02",
+      "stage_096_level_03",
+      "stage_097_level_01",
+      "stage_097_level_02",
+      "stage_097_level_03",
+      "stage_098_level_01",
+      "stage_098_level_02",
+      "stage_098_level_03",
+      "stage_099_level_01",
+      "stage_099_level_02",
+      "stage_099_level_03",
+      "stage_100_level_01",
+      "stage_100_level_02",
+      "stage_100_level_03"
+    ],
+    "hard": []
+  },
+  "created_at": "2025-07-25T15:44:45.111108",
+  "last_updated": "2025-07-28T08:35:33.978898"
+}
